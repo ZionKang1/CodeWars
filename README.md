@@ -1,2 +1,2 @@
 # CodeWars
-Repository contains completed task from CodeWars.com platform.
+Repository contains completed tasks from CodeWars.com platform.
